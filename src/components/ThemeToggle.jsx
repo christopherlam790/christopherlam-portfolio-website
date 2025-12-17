@@ -32,6 +32,7 @@ export const ThemeToggle = () => {
     }
   };
 
+  // Add button
   return (
     <button
       onClick={toggleTheme}
