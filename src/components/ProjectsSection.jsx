@@ -6,7 +6,7 @@ const projects = [
     title: "Proj 1 Title",
     description: "Proj 1 desc",
     image: "/projects/",
-    tags: ["Skill", "Skill"],
+    tags: ["Skill1", "Skill2"],
     githubUrl: "https://www.google.com/?client=safari&channel=mac_bm",
   },
   {
@@ -14,7 +14,7 @@ const projects = [
     title: "Proj 2 Title",
     description: "Proj 2 desc",
     image: "/projects/",
-    tags: ["Skill", "Skill"],
+    tags: ["Skill3", "Skil4"],
     githubUrl: "#",
   },
   {
@@ -22,7 +22,7 @@ const projects = [
     title: "Proj 3 Title",
     description: "Proj 3 desc",
     image: "/projects/",
-    tags: ["Skill", "Skill"],
+    tags: ["Skill5", "Skill6"],
     githubUrl: "#",
   },
 ];
