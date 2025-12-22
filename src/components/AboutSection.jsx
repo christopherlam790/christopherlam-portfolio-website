@@ -36,7 +36,7 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href="/Christopher_Lam_Resume_SWE.pdf"
+                href="/Christopher Lam Resume - SWE & Data Eng.pdf"
                 download="Christopher Lam Resume"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
                 Download CV
