@@ -6,7 +6,7 @@ const projects = [
     title: "Data-Driven Analysis of Iron Condor Options in Intraday Trading",
     description:
       "This project analyzes the efficacy of Iron Condor options as an algorithmic intraday trading strategy. Using historical market data and quantitative metrics, it evaluates risk, reward, and consistency of returns across the analyzed time period. The study aims to identify patterns, optimize strategy parameters, and provide actionable insights for traders seeking to enhance short-term options performance.",
-    image: "/public/vite.svg",
+    image: "/public/",
     tags: ["Skill1", "Skill2"],
     githubUrl: "https://www.google.com/?client=safari&channel=mac_bm",
   },
