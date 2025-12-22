@@ -3,12 +3,14 @@ import { ArrowRight, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Data-Driven Analysis of Iron Condor Options in Intraday Trading",
+    title:
+      "(WIP) Data-Driven Analysis of Iron Condor Options in Intraday Trading",
     description:
       "This project analyzes the efficacy of Iron Condor options as an algorithmic intraday trading strategy. Using historical market data and quantitative metrics, it evaluates risk, reward, and consistency of returns across the analyzed time period. The study aims to identify patterns, optimize strategy parameters, and provide actionable insights for traders seeking to enhance short-term options performance.",
-    image: "/public/",
-    tags: ["Skill1", "Skill2"],
-    githubUrl: "https://www.google.com/?client=safari&channel=mac_bm",
+    image: "public/Project_in_development.png",
+    tags: ["Python 3", "Numpy", "Pandas"],
+    githubUrl:
+      "https://github.com/christopherlam790/Intraday-Iron-Condor-Options-Data-Analysis.git",
   },
 ];
 
