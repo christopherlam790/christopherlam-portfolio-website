@@ -3,11 +3,13 @@ import { ArrowRight, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Proj 1 Title LIVE CHANGE TEST",
-    description: "Proj 1 desc",
+    title: "Intraday SPY Next Move Data Analysis",
+    description:
+      "Analyzing the patterns intraday movements of the S&P 500 (SPY) across 2023 data; Ideal for identifying potential price ranges during open market hours & liklihood of price movements.",
     image: "/projects/",
-    tags: ["Skill1", "Skill2"],
-    githubUrl: "https://www.google.com/?client=safari&channel=mac_bm",
+    tags: ["Python", "NumPy", "Pandas", "Seaborn", "Parquet"],
+    githubUrl:
+      "https://github.com/christopherlam790/Intraday_SPY_Next_Move_Analysis",
   },
   {
     id: 2,
