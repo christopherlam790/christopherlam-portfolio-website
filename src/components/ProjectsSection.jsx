@@ -11,22 +11,6 @@ const projects = [
     githubUrl:
       "https://github.com/christopherlam790/Intraday_SPY_Next_Move_Analysis",
   },
-  {
-    id: 2,
-    title: "Proj 2 Title",
-    description: "Proj 2 desc",
-    image: "/projects/",
-    tags: ["Skill3", "Skil4"],
-    githubUrl: "#",
-  },
-  {
-    id: 3,
-    title: "Proj 3 Title",
-    description: "Proj 3 desc",
-    image: "/projects/",
-    tags: ["Skill5", "Skill6"],
-    githubUrl: "#",
-  },
 ];
 
 export const ProjectsSection = () => {
