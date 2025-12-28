@@ -6,7 +6,8 @@ const projects = [
     title: "Intraday SPY Next Move Data Analysis",
     description:
       "Analyzing the patterns intraday movements of the S&P 500 (SPY) across 2023 data; Ideal for identifying potential price ranges during open market hours & liklihood of price movements.",
-    image: "/projects/",
+    image:
+      "public/projects/Iron Condor target Analysis/CLEANED_FIG_4_block_size_0.0035_threshold_target_next_move.png",
     tags: ["Python", "NumPy", "Pandas", "Seaborn", "Parquet"],
     githubUrl:
       "https://github.com/christopherlam790/Intraday_SPY_Next_Move_Analysis",
