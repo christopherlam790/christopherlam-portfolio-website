@@ -3,27 +3,13 @@ import { ArrowRight, Download } from "lucide-react";
 const papers = [
   {
     id: 1,
-    title: "Paper 1 Title",
-    description: "Paper 1 desc",
-    image: "/papers/",
-    tags: ["Skill", "Skill"],
-    githubUrl: "https://www.google.com/?client=safari&channel=mac_bm",
-  },
-  {
-    id: 2,
-    title: "Paper 2 Title",
-    description: "Paper 2 desc",
-    image: "/papers/",
-    tags: ["Skill", "Skill"],
-    githubUrl: "#",
-  },
-  {
-    id: 3,
-    title: "Paper 3 Title",
-    description: "Paper 3 desc",
-    image: "/papers/",
-    tags: ["Skill", "Skill"],
-    githubUrl: "#",
+    title:
+      "(WIP) Evaluating the Intraday Performance of Iron Condor Options: A Data-Driven Analysis",
+    description:
+      "This paper evaluates the intraday performance of Iron Condor options using a data-driven approach, refferencing the project work of 'Data-Driven Analysis of Iron Condor Options in Intraday Trading'.",
+    image: "/papers/Paper_in_development.png",
+    tags: ["Hypothesis Testing", "Data Analysis", "Algorithmic Trading"],
+    downloadUrl: "",
   },
 ];
 
@@ -37,8 +23,8 @@ export const PapersSection = () => {
         </h2>
 
         <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur ex
-          enim doloremque eveniet beatae modi.
+          Showcasing research papers based on innovative projects and
+          data-driven analyses across various domains.
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -69,14 +55,7 @@ export const PapersSection = () => {
                 </p>
 
                 <div className="flex justify-between items-center">
-                  <div className="flex space-x-3">
-                    <a
-                      href={paper.githubUrl}
-                      className="text-foreground/80 hover:text-primary tansition-colors duration-300"
-                      target="_blank">
-                      <Download size={20} />
-                    </a>
-                  </div>
+                  <div className="flex space-x-3"></div>
                 </div>
               </div>
             </div>
