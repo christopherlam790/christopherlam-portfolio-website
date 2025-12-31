@@ -8,7 +8,12 @@ const papers = [
     description:
       "This paper evaluates the intraday performance of Iron Condor options using a data-driven approach, refferencing the project work of 'Data-Driven Analysis of Iron Condor Options in Intraday Trading'.",
     image: "papers/SPY target Analysis/SPY target Analysis img.png",
-    tags: ["Hypothesis Testing", "Data Analysis", "Algorithmic Trading"],
+    tags: [
+      "Exploratory Data Analysis",
+      "Decision Support Analytics",
+      "Statistical Analysis",
+      "Threshold-Based Classification",
+    ],
     downloadUrl:
       "papers/SPY target Analysis/Intraday SPY Next Move Data Analysis & Potential Applications.pdf",
   },
