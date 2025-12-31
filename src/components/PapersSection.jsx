@@ -7,9 +7,10 @@ const papers = [
       "(WIP) Evaluating the Intraday Performance of Iron Condor Options: A Data-Driven Analysis",
     description:
       "This paper evaluates the intraday performance of Iron Condor options using a data-driven approach, refferencing the project work of 'Data-Driven Analysis of Iron Condor Options in Intraday Trading'.",
-    image: "/papers/Paper_in_development.png",
+    image: "papers/SPY target Analysis/SPY target Analysis img.png",
     tags: ["Hypothesis Testing", "Data Analysis", "Algorithmic Trading"],
-    downloadUrl: "",
+    downloadUrl:
+      "papers/SPY target Analysis/Intraday SPY Next Move Data Analysis & Potential Applications.pdf",
   },
 ];
 
@@ -57,6 +58,13 @@ export const PapersSection = () => {
                 <div className="flex justify-between items-center">
                   <div className="flex space-x-3"></div>
                 </div>
+
+                <a
+                  href={paper.downloadUrl}
+                  className="text-foreground/80 hover:text-primary tansition-colors duration-300"
+                  target="_blank">
+                  <Download size={20} />
+                </a>
               </div>
             </div>
           ))}
