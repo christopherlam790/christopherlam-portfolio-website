@@ -12,6 +12,16 @@ const projects = [
     githubUrl:
       "https://github.com/christopherlam790/Intraday_SPY_Next_Move_Analysis",
   },
+  {
+    id: 2,
+    title: "S&P 500 Round Price Tendancy Analysis",
+    description:
+      "Analyzing the tendency for `price pins` near round & `nice` numerical values across various S&P 500 instruments; Ideal for identifying potential `price pins` during a trading week.",
+    image: "projects/SPY Round Price Attraction Analysis/XSP Delta Heatmap.png",
+    tags: ["Python", "PostGreSQL", "Pandas", "NumPy", "Matplotlib"],
+    githubUrl:
+      "https://github.com/christopherlam790/S_and_P_Round_Price_Tendancy",
+  },
 ];
 
 export const ProjectsSection = () => {
