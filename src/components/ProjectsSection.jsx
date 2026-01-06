@@ -8,7 +8,7 @@ const projects = [
       "Analyzing the patterns intraday movements of the S&P 500 (SPY) across 2023 data; Ideal for identifying potential price ranges during open market hours & liklihood of price movements.",
     image:
       "projects/SPY target Analysis/CLEANED_FIG_4_block_size_0.0035_threshold_target_next_move.png",
-    tags: ["Python", "NumPy", "Pandas", "Seaborn", "Parquet"],
+    tags: ["Python", "NumPy", "Pandas", "Seaborn", "Parquet", "Docker"],
     githubUrl:
       "https://github.com/christopherlam790/Intraday_SPY_Next_Move_Analysis",
   },
@@ -18,7 +18,7 @@ const projects = [
     description:
       "Analyzing the tendency for `price pins` near round & `nice` numerical values (e.g. a multiple of 5) across various S&P 500 instruments; Ideal for identifying potential psychological `price pins` during a trading week.",
     image: "projects/SPY Round Price Attraction Analysis/XSP Delta Heatmap.png",
-    tags: ["Python", "PostGreSQL", "Pandas", "NumPy", "Matplotlib"],
+    tags: ["Python", "PostGreSQL", "SciPy", "Pandas", "NumPy", "Matplotlib"],
     githubUrl:
       "https://github.com/christopherlam790/S_and_P_Round_Price_Tendancy",
   },
