@@ -3,10 +3,9 @@ import { ArrowRight, Download } from "lucide-react";
 const papers = [
   {
     id: 1,
-    title:
-      "(WIP) Evaluating the Intraday Performance of Iron Condor Options: A Data-Driven Analysis",
+    title: "Intraday SPY Next Move Data Analysis & Potential Applications",
     description:
-      "This paper evaluates the intraday performance of Iron Condor options using a data-driven approach, refferencing the project work of 'Data-Driven Analysis of Iron Condor Options in Intraday Trading'.",
+      "This paper evaluates the intraday price behaviors of SPY using a data-driven approach, refferencing the project work of 'Intraday SPY Next Move Data Analysis'.",
     image: "papers/SPY target Analysis/SPY target Analysis img.png",
     tags: [
       "Exploratory Data Analysis",
