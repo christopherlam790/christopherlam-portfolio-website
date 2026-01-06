@@ -16,7 +16,7 @@ const projects = [
     id: 2,
     title: "S&P 500 Round Price Tendancy Analysis",
     description:
-      "Analyzing the tendency for `price pins` near round & `nice` numerical values across various S&P 500 instruments; Ideal for identifying potential `price pins` during a trading week.",
+      "Analyzing the tendency for `price pins` near round & `nice` numerical values (e.g. a multiple of 5) across various S&P 500 instruments; Ideal for identifying potential psychological `price pins` during a trading week.",
     image: "projects/SPY Round Price Attraction Analysis/XSP Delta Heatmap.png",
     tags: ["Python", "PostGreSQL", "Pandas", "NumPy", "Matplotlib"],
     githubUrl:
