@@ -34,8 +34,7 @@ export const ProjectsSection = () => {
         </h2>
 
         <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-          Showcasing my work in coding, analytics, and live projects under
-          development.
+          Showcasing my work in coding, analytics, and visualization/modeling.
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
