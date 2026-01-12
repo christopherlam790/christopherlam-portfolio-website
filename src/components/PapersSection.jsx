@@ -16,6 +16,22 @@ const papers = [
     downloadUrl:
       "papers/SPY target Analysis/Intraday SPY Next Move Data Analysis & Potential Applications.pdf",
   },
+  {
+    id: 2,
+    title: "Analysis of S&P Instruments Their Price Pinning Tendencies",
+    description:
+      "This paper applies large-scale data engineering and statistical analysis to study weak structural price-attraction effects in index markets. Using robust filtering, confidence intervals, and diagnostic visualizations, it demonstrates that these effects are persistent, emergent, and explanatory of market microstructure rather than predictive trading signals. References the project work of 'S&P 500 Round Price Tendancy Analysis'.",
+    image:
+      "papers/SPY Round Price Attraction Analysis/SPY Round price Attraction Analysis Paper.png",
+    tags: [
+      "Applied Statistics",
+      "Hypothesis Testing",
+      "Visualization and Diagnostics",
+      "Feature Engineering",
+    ],
+    downloadUrl:
+      "papers/SPY Round Price Attraction Analysis/S&P Round Price Pinning Tendency .pdf",
+  },
 ];
 
 export const PapersSection = () => {
