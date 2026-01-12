@@ -5,7 +5,7 @@ const papers = [
     id: 1,
     title: "Intraday SPY Next Move Data Analysis & Potential Applications",
     description:
-      "This paper evaluates the intraday price behaviors of SPY using a data-driven approach, refferencing the project work of 'Intraday SPY Next Move Data Analysis'.",
+      "This paper evaluates the intraday price behaviors of SPY using a data-driven approach. By splicing intrday trading data into a rolling window across standard market hours, it highlights intraday price patterns and ranges throughout the trading day. References the project work of 'Intraday SPY Next Move Data Analysis'.",
     image: "papers/SPY target Analysis/SPY target Analysis img.png",
     tags: [
       "Exploratory Data Analysis",
