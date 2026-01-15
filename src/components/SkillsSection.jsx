@@ -28,7 +28,7 @@ const skills = [
   { name: "Hypothesis Testing", category: "statistics" },
 
   //Concepts & Tools
-  { name: "Git/GiHub", category: "tools" },
+  { name: "Git/GitHub", category: "tools" },
   { name: "Docker", category: "tools" },
   { name: "CI/CD Pipelines", category: "tools" },
   { name: "Agile & SCRUM Methodologies", category: "tools" },

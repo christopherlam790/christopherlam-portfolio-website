@@ -5,7 +5,7 @@ const papers = [
     id: 1,
     title: "Intraday SPY Next Move Data Analysis & Potential Applications",
     description:
-      "This paper evaluates the intraday price behaviors of SPY using a data-driven approach. By splicing intrday trading data into a rolling window across standard market hours, it highlights intraday price patterns and ranges throughout the trading day. References the project work of 'Intraday SPY Next Move Data Analysis'.",
+      "This paper evaluates the intraday price behaviors of SPY using a data-driven approach. Splicing intraday trading data into a rolling window across standard market hours highlights intraday price patterns and ranges throughout the trading day. References the project work of 'Intraday SPY Next Move Data Analysis'.",
     image: "papers/SPY target Analysis/SPY target Analysis img.png",
     tags: [
       "Exploratory Data Analysis",
@@ -18,9 +18,9 @@ const papers = [
   },
   {
     id: 2,
-    title: "Analysis of S&P Instruments Their Price Pinning Tendencies",
+    title: "Analysis of S&P Instruments: Their Price Pinning Tendencies",
     description:
-      "This paper applies large-scale data engineering and statistical analysis to study weak structural price-attraction effects in index markets. Using robust filtering, confidence intervals, and diagnostic visualizations, it demonstrates that these effects are persistent, emergent, and explanatory of market microstructure rather than predictive trading signals. References the project work of 'S&P 500 Round Price Tendancy Analysis'.",
+      "This paper applies large-scale data engineering and statistical analysis to study weak structural price-attraction effects in index markets. Using robust filtering, confidence intervals, and diagnostic visualizations, it demonstrates that these effects are persistent, emergent, and explanatory of market microstructure rather than predictive trading signals. References the project work of 'S&P 500 Round Price Tendency Analysis'.",
     image:
       "papers/SPY Round Price Attraction Analysis/SPY Round price Attraction Analysis Paper.png",
     tags: [
