@@ -28,10 +28,9 @@ const projects = [
     description:
       "Analyzing the efficiency of 0DTE butterflies by different intraday sesssion; Ideal for formulating positive EV mechanical 0DTE butterflies based on historic data.",
     image:
-      "public/projects/SPY Butterfly Analysis & backtest/spy_2025_5_minute_annual_sticky_volatility_probability_vs_time_to_eod.png",
+      "projects/SPY Butterfly Analysis & backtest/spy_2025_5_minute_annual_sticky_volatility_probability_vs_time_to_eod.png",
     tags: [
       "Python",
-      "PostGreSQL",
       "Data Normalization",
       "Batch Processing",
       "Heuristic-based Analysis",
